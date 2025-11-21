@@ -1,3 +1,5 @@
+# Generate word cloud in English
+
 %r
 library(dplyr)
 library(tm)
