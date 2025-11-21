@@ -1,3 +1,5 @@
+# Translate multilingual survey responses
+
 from googletrans import Translator
 import pandas as pd
 
